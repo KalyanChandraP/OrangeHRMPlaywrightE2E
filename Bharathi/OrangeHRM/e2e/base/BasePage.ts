@@ -8,8 +8,8 @@ export class BasePage{
    } 
 
   // constructor(private page: Page){}
-
    
+  
   async close() {
     await this.page.close();
   }
