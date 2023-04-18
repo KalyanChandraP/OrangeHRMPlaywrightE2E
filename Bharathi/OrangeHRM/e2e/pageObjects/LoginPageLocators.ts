@@ -1,16 +1,16 @@
 export class LoginPageLocators{
-    orangeHRMLogo : string  =  "img[src*='ohrm_branding.png']";
-    loginLogo : string = "//h5[text()='Login']";
-    userName : string = "//label[text()='Username']";
-    password : string = "//label[text()='Password']";
-    usernameTextBox : string = "[name='username']";
-    passwordTextBox : string  = "[name='password']";
-    loginButton : string =  "//button[text()=' Login ']";
-    forgotPasswordLink : string = "//p[text()='Forgot your password? ']";
-    resetPasswordTitle : string = "//h6[text()='Reset Password']";
-    usernameResetPage : string = "//label[text()='Username']";
-    usernameTextBoxResetPage : string = "[name='username']"
-    resetPasswordButton : string = "//button[text()=' Reset Password ']";
-    cancelButton : string = "//button[text()=' Cancel ']";
+    orangeHRMLogo  =  "img[src*='ohrm_branding.png']";
+    loginLogo  = "//h5[text()='Login']";
+    userName  = "//label[text()='Username']";
+    password = "//label[text()='Password']";
+    usernameTextBox  = "[name='username']";
+    passwordTextBox  = "[name='password']";
+    loginButton  =  "//button[text()=' Login ']";
+    forgotPasswordLink  = "//p[text()='Forgot your password? ']";
+    resetPasswordTitle  = "//h6[text()='Reset Password']";
+    usernameResetPage = "//label[text()='Username']";
+    usernameTextBoxResetPage = "[name='username']"
+    resetPasswordButton  = "//button[text()=' Reset Password ']";
+    cancelButton  = "//button[text()=' Cancel ']";
 }
 
