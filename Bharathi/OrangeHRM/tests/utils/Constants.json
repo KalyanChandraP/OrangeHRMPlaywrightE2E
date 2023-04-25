@@ -1,0 +1,38 @@
+{
+    "credentials": {
+        "username": "Admin",
+        "password": "admin123"
+    },
+    "Testdata": {
+        "employeename": "a",
+        "entitlements": "2"
+    },
+    "DemoQA_TestData": {
+        "fullname": "Test",
+        "email": "abc@gmail.com",
+        "currentAddress": "coimbatore",
+        "permanentAddress": "coimbatore",
+        "firstname" : "test",
+        "lastname" : "test",
+        "webtableemail" : "abcd@gmail.com",
+        "age" : "30",
+        "salary" : "20000",
+        "department" : "IT",
+        "updateFullname" : "test"
+    },
+    "DemoQA_Forms" : {
+     "firstname" : "sample",
+     "lastname" : "test",
+     "email" : "abc@gmail.com",
+     "gender" : "Female",
+     "mobile" : "9837689789",
+     "dob" : "01 Jan 1993",
+     "subjects" : "Tamil",
+     "hobbies" : "Music",
+     "currentAddress" : "coimbatore",
+     "state" : "NCR",
+     "city" : "Delhi"
+
+
+    }
+}
